@@ -416,8 +416,8 @@
         <!-- footer -->
         <!-- ============================================================== -->
         <footer class="footer text-center">
-            All Rights Reserved by Matrix-admin. Designed and Developed by <a href="https://wrappixel.com">WrapPixel</a>.
-        </footer>
+                &copy 2020 <a href="https://simitechnologies.co.ke/" target="_blank">SIMI Technologies.</a> All Rights Reserved.
+            </footer>
         <!-- ============================================================== -->
         <!-- End footer -->
         <!-- ============================================================== -->

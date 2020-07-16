@@ -150,7 +150,7 @@
             </div>
 
             <footer class="footer text-center">
-                All Rights Reserved by Khoz Informatics Pvt. Ltd. Designed and Developed by <a href="https://khozinfo.com/">Khozinfo</a>.
+                &copy 2020 <a href="https://simitechnologies.co.ke/" target="_blank">SIMI Technologies.</a> All Rights Reserved.
             </footer>
         </div>
     </div>
