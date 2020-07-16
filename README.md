@@ -23,13 +23,13 @@ http://127.0.0.1:8000/register
 
 
 ## Installation
-This project is for employee management.Employee can register himself and employee can assign a salary for employee...
+This project is for employee management.Employee can register himself and employer can assign a salary for employee.
 
 ## Clone the repo
-git clone https://github.com/GaneshKhadka/Employee-management-system-in-laravel.git
+git clone https://github.com/JessyLedama/ems.git
 
 ## Composer install
-cd Employee-management-system-in-laravel
+cd EMS
 composer install
 
 # Database
