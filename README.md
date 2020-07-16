@@ -1,11 +1,11 @@
-# ems
+# Employee Management System.
 This project is based on laravel framework.
 Admin has all privilege where as employee has certain restriction to access.By default You can register as an employee:
 http://127.0.0.1:8000/register
 
-## You can engage in this project to make this more advanced and you can add new features.You contribution will be highly appreciated !!
 
-## Screenshots
+
+## FEATURES.
 # Login page
 ![login page](https://user-images.githubusercontent.com/15700384/56889193-7b21e100-6a95-11e9-8e5a-144050628106.png)
 
